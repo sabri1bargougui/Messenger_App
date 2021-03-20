@@ -2,10 +2,10 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 User user = FirebaseAuth.instance.currentUser;
 
-String myId = "z0ZSvbfp11Wa7hDi4HqXtXnBlJl2";
-String myUsername = "ahmed";
+String myId = "put your id here";
+String myUsername = "put your name here";
 String myUrlAvatar =
-    "https://firebasestorage.googleapis.com/v0/b/messengerapp-c86e5.appspot.com/o/z0ZSvbfp11Wa7hDi4HqXtXnBlJl2?alt=media&token=ad7128db-ea3e-4497-bdcf-348bfaa39c4f";
+    "put your profile pic link here";
 /*void updateData() async {
   User user = FirebaseAuth.instance.currentUser;
   DocumentSnapshot snap =
